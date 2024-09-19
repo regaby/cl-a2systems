@@ -131,11 +131,9 @@
 
     'git-repos': [
         'https://github.com/regaby/cl-a2systems.git',
-
         'https://github.com/a2systems/odoo-argentina.git',
-
         'https://github.com/jcelguerablas/Retail.git',
-        
+        'https://github.com/OCA/web.git',
     ],
 
     # list of images to use in the form 'name image-url'
